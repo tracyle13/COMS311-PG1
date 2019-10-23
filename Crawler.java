@@ -6,7 +6,7 @@ import api.Graph;
  * Implementation of a basic web crawler that creates a graph of some
  * portion of the world wide web.
  *
- * @author PLEASE FILL IN TEAM MEMBER NAMES HERE
+ * @author Tracy Le
  */
 public class Crawler
 {
